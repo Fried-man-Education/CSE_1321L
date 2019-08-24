@@ -6,7 +6,7 @@ Projects for CS Lab. [Live List](https://ccse.kennesaw.edu/fye/1321_labs_assignm
 * [Assignment 1](https://ccse.kennesaw.edu/fye/docs/1321/labs/m1/v3/M1%20-%20A1%20-%20Pseudocode%20-%20FA19.pdf)
 ### Module 2
 * [Lab 2](https://ccse.kennesaw.edu/fye/docs/1321/labs/m2/v3/M2%20-%20L2%20-%20TypeSystems%20-%20Version%203.0.docx) (Completed)
-* [Lab 3](https://ccse.kennesaw.edu/fye/docs/1321/labs/m2/M2%20-%20L3%20-%20TypeSystems%20-%20Version%202.0.doc)
+* [Lab 3](https://ccse.kennesaw.edu/fye/docs/1321/labs/m2/M2%20-%20L3%20-%20TypeSystems%20-%20Version%202.0.doc) (Completed)
 * Assignment 2
 ### Module 3
 * [Lab 4](https://ccse.kennesaw.edu/fye/docs/1321/labs/m3/M3%20-%20L4%20-%20Selection%20Structures.docx)
