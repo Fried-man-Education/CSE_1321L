@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMath", "SimpleMath\SimpleMath.csproj", "{1EBEED28-8C80-45D2-8ED6-72F0D773ECCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EBEED28-8C80-45D2-8ED6-72F0D773ECCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBEED28-8C80-45D2-8ED6-72F0D773ECCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBEED28-8C80-45D2-8ED6-72F0D773ECCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBEED28-8C80-45D2-8ED6-72F0D773ECCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7737DBD6-0B3D-45A3-AFF1-B2FCA7F96865}
+	EndGlobalSection
+EndGlobal

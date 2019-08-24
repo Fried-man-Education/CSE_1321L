@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\bin\Debug\netcoreapp2.1\SimpleMath.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\bin\Debug\netcoreapp2.1\SimpleMath.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\bin\Debug\netcoreapp2.1\SimpleMath.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\bin\Debug\netcoreapp2.1\SimpleMath.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\bin\Debug\netcoreapp2.1\SimpleMath.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\obj\Debug\netcoreapp2.1\SimpleMath.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\obj\Debug\netcoreapp2.1\SimpleMath.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\obj\Debug\netcoreapp2.1\SimpleMath.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\obj\Debug\netcoreapp2.1\SimpleMath.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\obj\Debug\netcoreapp2.1\SimpleMath.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SimpleMath\SimpleMath\obj\Debug\netcoreapp2.1\SimpleMath.pdb
