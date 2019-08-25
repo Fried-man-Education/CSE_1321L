@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\bin\Debug\netcoreapp2.1\PalindromeInteger.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\bin\Debug\netcoreapp2.1\PalindromeInteger.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\bin\Debug\netcoreapp2.1\PalindromeInteger.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\bin\Debug\netcoreapp2.1\PalindromeInteger.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\bin\Debug\netcoreapp2.1\PalindromeInteger.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PalindromeInteger\PalindromeInteger\obj\Debug\netcoreapp2.1\PalindromeInteger.pdb
