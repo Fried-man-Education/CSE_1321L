@@ -18,7 +18,7 @@ Projects for CS Lab. [Live List](https://ccse.kennesaw.edu/fye/1321_labs_assignm
 * Assignment 4
 ### Module 5
 * [Lab 8](https://ccse.kennesaw.edu/fye/docs/1321/labs/m5/M5%20-%20L8%20-%20Methods%20Version%201.1.doc) (Completed)
-* [Lab 9](https://ccse.kennesaw.edu/fye/docs/1321/labs/m5/M5%20-%20L9%20-%20Methods%20Version%202.1.doc)
+* [Lab 9](https://ccse.kennesaw.edu/fye/docs/1321/labs/m5/M5%20-%20L9%20-%20Methods%20Version%202.1.doc) (Completed)
 * Assignment 5
 ### Module 6
 * [Lab 10](https://ccse.kennesaw.edu/fye/docs/1321/labs/m6/v3/M6%20-%20L10%20-%20Classes%20-%20Version%204.0.docx)
