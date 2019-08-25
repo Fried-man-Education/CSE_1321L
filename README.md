@@ -10,7 +10,7 @@ Projects for CS Lab. [Live List](https://ccse.kennesaw.edu/fye/1321_labs_assignm
 * Assignment 2
 ### Module 3
 * [Lab 4](https://ccse.kennesaw.edu/fye/docs/1321/labs/m3/M3%20-%20L4%20-%20Selection%20Structures.docx) (Completed)
-* [Lab 5](https://ccse.kennesaw.edu/fye/docs/1321/labs/m3/M3%20-%20L5%20-%20Selection%20Structures%20-%20Corrected.doc)
+* [Lab 5](https://ccse.kennesaw.edu/fye/docs/1321/labs/m3/M3%20-%20L5%20-%20Selection%20Structures%20-%20Corrected.doc) (Completed)
 * Assignment 3
 ### Module 4
 * [Lab 6](https://ccse.kennesaw.edu/fye/docs/1321/labs/m4/M4%20-%20L6%20-%20Loop%20Structures.doc)

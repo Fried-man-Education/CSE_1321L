@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\bin\Debug\netcoreapp2.1\ProcessGrades.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\bin\Debug\netcoreapp2.1\ProcessGrades.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\bin\Debug\netcoreapp2.1\ProcessGrades.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\bin\Debug\netcoreapp2.1\ProcessGrades.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\bin\Debug\netcoreapp2.1\ProcessGrades.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\obj\Debug\netcoreapp2.1\ProcessGrades.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\obj\Debug\netcoreapp2.1\ProcessGrades.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\obj\Debug\netcoreapp2.1\ProcessGrades.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\obj\Debug\netcoreapp2.1\ProcessGrades.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\obj\Debug\netcoreapp2.1\ProcessGrades.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ProcessGrades\ProcessGrades\obj\Debug\netcoreapp2.1\ProcessGrades.pdb
