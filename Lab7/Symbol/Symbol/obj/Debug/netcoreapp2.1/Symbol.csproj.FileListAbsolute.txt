@@ -1,0 +1,10 @@
+C:\Users\mrchargerlover\source\repos\Symbol\Symbol\bin\Debug\netcoreapp2.1\Symbol.deps.json
+C:\Users\mrchargerlover\source\repos\Symbol\Symbol\bin\Debug\netcoreapp2.1\Symbol.runtimeconfig.json
+C:\Users\mrchargerlover\source\repos\Symbol\Symbol\bin\Debug\netcoreapp2.1\Symbol.runtimeconfig.dev.json
+C:\Users\mrchargerlover\source\repos\Symbol\Symbol\bin\Debug\netcoreapp2.1\Symbol.dll
+C:\Users\mrchargerlover\source\repos\Symbol\Symbol\bin\Debug\netcoreapp2.1\Symbol.pdb
+C:\Users\mrchargerlover\source\repos\Symbol\Symbol\obj\Debug\netcoreapp2.1\Symbol.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\source\repos\Symbol\Symbol\obj\Debug\netcoreapp2.1\Symbol.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\source\repos\Symbol\Symbol\obj\Debug\netcoreapp2.1\Symbol.AssemblyInfo.cs
+C:\Users\mrchargerlover\source\repos\Symbol\Symbol\obj\Debug\netcoreapp2.1\Symbol.dll
+C:\Users\mrchargerlover\source\repos\Symbol\Symbol\obj\Debug\netcoreapp2.1\Symbol.pdb

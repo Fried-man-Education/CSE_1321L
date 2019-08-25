@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\bin\Debug\netcoreapp2.1\SumEven.deps.json
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\bin\Debug\netcoreapp2.1\SumEven.runtimeconfig.json
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\bin\Debug\netcoreapp2.1\SumEven.runtimeconfig.dev.json
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\bin\Debug\netcoreapp2.1\SumEven.dll
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\bin\Debug\netcoreapp2.1\SumEven.pdb
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\obj\Debug\netcoreapp2.1\SumEven.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\obj\Debug\netcoreapp2.1\SumEven.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\obj\Debug\netcoreapp2.1\SumEven.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\obj\Debug\netcoreapp2.1\SumEven.AssemblyInfo.cs
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\obj\Debug\netcoreapp2.1\SumEven.dll
+C:\Users\mrchargerlover\source\repos\SumEven\SumEven\obj\Debug\netcoreapp2.1\SumEven.pdb
