@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\source\repos\Youth\Youth\bin\Debug\netcoreapp2.1\Youth.deps.json
+C:\Users\mrchargerlover\source\repos\Youth\Youth\bin\Debug\netcoreapp2.1\Youth.runtimeconfig.json
+C:\Users\mrchargerlover\source\repos\Youth\Youth\bin\Debug\netcoreapp2.1\Youth.runtimeconfig.dev.json
+C:\Users\mrchargerlover\source\repos\Youth\Youth\bin\Debug\netcoreapp2.1\Youth.dll
+C:\Users\mrchargerlover\source\repos\Youth\Youth\bin\Debug\netcoreapp2.1\Youth.pdb
+C:\Users\mrchargerlover\source\repos\Youth\Youth\obj\Debug\netcoreapp2.1\Youth.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\source\repos\Youth\Youth\obj\Debug\netcoreapp2.1\Youth.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\source\repos\Youth\Youth\obj\Debug\netcoreapp2.1\Youth.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\source\repos\Youth\Youth\obj\Debug\netcoreapp2.1\Youth.AssemblyInfo.cs
+C:\Users\mrchargerlover\source\repos\Youth\Youth\obj\Debug\netcoreapp2.1\Youth.dll
+C:\Users\mrchargerlover\source\repos\Youth\Youth\obj\Debug\netcoreapp2.1\Youth.pdb

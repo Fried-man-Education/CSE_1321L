@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\obj\Debug\netcoreapp2.1\GradeReport.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\obj\Debug\netcoreapp2.1\GradeReport.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\obj\Debug\netcoreapp2.1\GradeReport.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\obj\Debug\netcoreapp2.1\GradeReport.AssemblyInfo.cs
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\bin\Debug\netcoreapp2.1\GradeReport.deps.json
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\bin\Debug\netcoreapp2.1\GradeReport.runtimeconfig.json
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\bin\Debug\netcoreapp2.1\GradeReport.runtimeconfig.dev.json
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\bin\Debug\netcoreapp2.1\GradeReport.dll
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\bin\Debug\netcoreapp2.1\GradeReport.pdb
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\obj\Debug\netcoreapp2.1\GradeReport.dll
+C:\Users\mrchargerlover\source\repos\GradeReport\GradeReport\obj\Debug\netcoreapp2.1\GradeReport.pdb
