@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\bin\Debug\netcoreapp2.1\PrintSum.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\bin\Debug\netcoreapp2.1\PrintSum.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\bin\Debug\netcoreapp2.1\PrintSum.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\bin\Debug\netcoreapp2.1\PrintSum.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\bin\Debug\netcoreapp2.1\PrintSum.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\obj\Debug\netcoreapp2.1\PrintSum.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\obj\Debug\netcoreapp2.1\PrintSum.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\obj\Debug\netcoreapp2.1\PrintSum.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\obj\Debug\netcoreapp2.1\PrintSum.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\obj\Debug\netcoreapp2.1\PrintSum.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\PrintSum\PrintSum\obj\Debug\netcoreapp2.1\PrintSum.pdb

@@ -1,0 +1,10 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp2.1\RandomNumbers.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp2.1\RandomNumbers.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp2.1\RandomNumbers.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp2.1\RandomNumbers.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp2.1\RandomNumbers.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.pdb

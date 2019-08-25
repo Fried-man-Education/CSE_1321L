@@ -1,0 +1,10 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\EvenOdd\EvenOdd\bin\Debug\netcoreapp2.1\EvenOdd.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\EvenOdd\EvenOdd\bin\Debug\netcoreapp2.1\EvenOdd.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\EvenOdd\EvenOdd\bin\Debug\netcoreapp2.1\EvenOdd.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\EvenOdd\EvenOdd\bin\Debug\netcoreapp2.1\EvenOdd.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\EvenOdd\EvenOdd\bin\Debug\netcoreapp2.1\EvenOdd.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\EvenOdd\EvenOdd\obj\Debug\netcoreapp2.1\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\EvenOdd\EvenOdd\obj\Debug\netcoreapp2.1\EvenOdd.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\EvenOdd\EvenOdd\obj\Debug\netcoreapp2.1\EvenOdd.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\EvenOdd\EvenOdd\obj\Debug\netcoreapp2.1\EvenOdd.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\EvenOdd\EvenOdd\obj\Debug\netcoreapp2.1\EvenOdd.pdb
