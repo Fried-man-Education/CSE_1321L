@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\EvenOdd\\EvenOdd\\EvenOdd.csproj",
+      "projectUniqueName": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\Lab6\\EvenOdd\\EvenOdd\\EvenOdd.csproj",
       "projectName": "EvenOdd",
-      "projectPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\EvenOdd\\EvenOdd\\EvenOdd.csproj",
+      "projectPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\Lab6\\EvenOdd\\EvenOdd\\EvenOdd.csproj",
       "packagesPath": "C:\\Users\\mrchargerlover\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\EvenOdd\\EvenOdd\\obj\\",
+      "outputPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\Lab6\\EvenOdd\\EvenOdd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

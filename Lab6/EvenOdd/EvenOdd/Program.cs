@@ -15,27 +15,29 @@ namespace EvenOdd
     {
         static void Main(string[] args)
         {
+            // Print even numbers
             Console.Write("Even numbers between 50 and 100: ");
             for (int i = 50; i <= 100; i++)
             {
-                if (i % 2 == 0)
+                if (i % 2 == 0) // check if even
                 {
                     Console.Write(i);
-                    if (i != 100)
+                    if (i != 100) // not last number scenario
                     {
                         Console.Write(", ");
                     }
                 }
             }
             Console.WriteLine();
-            Console.WriteLine();
+            Console.WriteLine(); // spacing
+            // Print odd numbers
             Console.Write("Odd numbers between 50 and 100: ");
             for (int i = 50; i < 100; i++)
             {
-                if (i % 2 == 1)
+                if (i % 2 == 1) // check if odd
                 {
                     Console.Write(i);
-                    if (i != 99)
+                    if (i != 99) // not last number scenario
                     {
                         Console.Write(", ");
                     }

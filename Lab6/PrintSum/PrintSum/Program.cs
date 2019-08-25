@@ -15,20 +15,20 @@ namespace PrintSum
     {
         static void Main(string[] args)
         {
-            int n;
-            do
+            int n; // input
+            do // take input until correct
             {
                 Console.Write("Enter value (1-100): ");
                 n = int.Parse(Console.ReadLine());
                 if (n < 1 || n > 100)
                 {
-                    Console.WriteLine("Invalid Input. Try again.");
+                    Console.WriteLine("Invalid Input. Try again."); // invalid input response
                 }
-            } while (n < 1 || n > 100);
-            Console.Clear();
+            } while (n < 1 || n > 100); // boundaries
+            Console.Clear(); // fresh console for output
             Console.WriteLine("You entered: " + n);
             int sum = 0;
-            for (int i = 1; i <= n; i++)
+            for (int i = 1; i <= n; i++) // add numbers to "sum" variable
             {
                 sum += i;
             }

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\PrintSum\\PrintSum\\PrintSum.csproj",
+      "projectUniqueName": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\Lab6\\PrintSum\\PrintSum\\PrintSum.csproj",
       "projectName": "PrintSum",
-      "projectPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\PrintSum\\PrintSum\\PrintSum.csproj",
+      "projectPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\Lab6\\PrintSum\\PrintSum\\PrintSum.csproj",
       "packagesPath": "C:\\Users\\mrchargerlover\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\PrintSum\\PrintSum\\obj\\",
+      "outputPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\Lab6\\PrintSum\\PrintSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
