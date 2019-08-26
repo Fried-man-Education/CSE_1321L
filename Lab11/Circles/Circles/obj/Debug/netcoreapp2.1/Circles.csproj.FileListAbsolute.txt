@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\bin\Debug\netcoreapp2.1\Circles.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\bin\Debug\netcoreapp2.1\Circles.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\bin\Debug\netcoreapp2.1\Circles.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\bin\Debug\netcoreapp2.1\Circles.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\bin\Debug\netcoreapp2.1\Circles.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\obj\Debug\netcoreapp2.1\Circles.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\obj\Debug\netcoreapp2.1\Circles.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\obj\Debug\netcoreapp2.1\Circles.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\obj\Debug\netcoreapp2.1\Circles.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\obj\Debug\netcoreapp2.1\Circles.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Circles\Circles\obj\Debug\netcoreapp2.1\Circles.pdb

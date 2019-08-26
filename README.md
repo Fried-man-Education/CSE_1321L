@@ -22,7 +22,7 @@ Projects for CS Lab. [Live List](https://ccse.kennesaw.edu/fye/1321_labs_assignm
 * Assignment 5
 ### Module 6
 * [Lab 10](https://ccse.kennesaw.edu/fye/docs/1321/labs/m6/v3/M6%20-%20L10%20-%20Classes%20-%20Version%204.0.docx) (Completed)
-* [Lab 11](https://ccse.kennesaw.edu/fye/docs/1321/labs/m6/v3/M6%20-%20L11%20-%20Classes%20-%20Version%203.0.docx)
+* [Lab 11](https://ccse.kennesaw.edu/fye/docs/1321/labs/m6/v3/M6%20-%20L11%20-%20Classes%20-%20Version%203.0.docx) (Completed)
 * Assignment 6
 ### Module 7
 * [Lab 12](https://ccse.kennesaw.edu/fye/docs/1321/labs/m7/M7%20-%20L12%20-%20Arrays.doc)
