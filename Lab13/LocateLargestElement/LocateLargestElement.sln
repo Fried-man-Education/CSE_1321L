@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocateLargestElement", "LocateLargestElement\LocateLargestElement.csproj", "{A03052AA-DE2E-4D04-BF1E-BE41D8C377FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03052AA-DE2E-4D04-BF1E-BE41D8C377FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03052AA-DE2E-4D04-BF1E-BE41D8C377FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03052AA-DE2E-4D04-BF1E-BE41D8C377FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03052AA-DE2E-4D04-BF1E-BE41D8C377FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EDD909A-8095-4BAF-B665-2094812296D2}
+	EndGlobalSection
+EndGlobal

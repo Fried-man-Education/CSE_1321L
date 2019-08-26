@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\bin\Debug\netcoreapp2.1\AddMatrices.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\bin\Debug\netcoreapp2.1\AddMatrices.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\bin\Debug\netcoreapp2.1\AddMatrices.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\bin\Debug\netcoreapp2.1\AddMatrices.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\bin\Debug\netcoreapp2.1\AddMatrices.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\obj\Debug\netcoreapp2.1\AddMatrices.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\obj\Debug\netcoreapp2.1\AddMatrices.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\obj\Debug\netcoreapp2.1\AddMatrices.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\obj\Debug\netcoreapp2.1\AddMatrices.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\obj\Debug\netcoreapp2.1\AddMatrices.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AddMatrices\AddMatrices\obj\Debug\netcoreapp2.1\AddMatrices.pdb

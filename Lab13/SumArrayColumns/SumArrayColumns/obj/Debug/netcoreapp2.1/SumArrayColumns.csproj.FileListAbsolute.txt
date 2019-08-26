@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\bin\Debug\netcoreapp2.1\SumArrayColumns.deps.json
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\bin\Debug\netcoreapp2.1\SumArrayColumns.runtimeconfig.json
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\bin\Debug\netcoreapp2.1\SumArrayColumns.runtimeconfig.dev.json
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\bin\Debug\netcoreapp2.1\SumArrayColumns.dll
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\bin\Debug\netcoreapp2.1\SumArrayColumns.pdb
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\obj\Debug\netcoreapp2.1\SumArrayColumns.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\obj\Debug\netcoreapp2.1\SumArrayColumns.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\obj\Debug\netcoreapp2.1\SumArrayColumns.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\obj\Debug\netcoreapp2.1\SumArrayColumns.AssemblyInfo.cs
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\obj\Debug\netcoreapp2.1\SumArrayColumns.dll
+C:\Users\mrchargerlover\source\repos\SumArrayColumns\SumArrayColumns\obj\Debug\netcoreapp2.1\SumArrayColumns.pdb
