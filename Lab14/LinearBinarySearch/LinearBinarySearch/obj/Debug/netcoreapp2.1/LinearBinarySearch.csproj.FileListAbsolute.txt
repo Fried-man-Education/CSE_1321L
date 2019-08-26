@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\bin\Debug\netcoreapp2.1\LinearBinarySearch.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\bin\Debug\netcoreapp2.1\LinearBinarySearch.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\bin\Debug\netcoreapp2.1\LinearBinarySearch.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\bin\Debug\netcoreapp2.1\LinearBinarySearch.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\bin\Debug\netcoreapp2.1\LinearBinarySearch.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\obj\Debug\netcoreapp2.1\LinearBinarySearch.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\obj\Debug\netcoreapp2.1\LinearBinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\obj\Debug\netcoreapp2.1\LinearBinarySearch.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\obj\Debug\netcoreapp2.1\LinearBinarySearch.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\obj\Debug\netcoreapp2.1\LinearBinarySearch.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\LinearBinarySearch\LinearBinarySearch\obj\Debug\netcoreapp2.1\LinearBinarySearch.pdb
