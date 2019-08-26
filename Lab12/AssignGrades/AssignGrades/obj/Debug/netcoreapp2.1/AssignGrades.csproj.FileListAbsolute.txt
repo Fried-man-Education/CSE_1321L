@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\bin\Debug\netcoreapp2.1\AssignGrades.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\bin\Debug\netcoreapp2.1\AssignGrades.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\bin\Debug\netcoreapp2.1\AssignGrades.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\bin\Debug\netcoreapp2.1\AssignGrades.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\bin\Debug\netcoreapp2.1\AssignGrades.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\obj\Debug\netcoreapp2.1\AssignGrades.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\obj\Debug\netcoreapp2.1\AssignGrades.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\obj\Debug\netcoreapp2.1\AssignGrades.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\obj\Debug\netcoreapp2.1\AssignGrades.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\obj\Debug\netcoreapp2.1\AssignGrades.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\AssignGrades\AssignGrades\obj\Debug\netcoreapp2.1\AssignGrades.pdb

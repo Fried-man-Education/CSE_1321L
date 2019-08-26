@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp2.1\ArrayMethods.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp2.1\ArrayMethods.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp2.1\ArrayMethods.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp2.1\ArrayMethods.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\bin\Debug\netcoreapp2.1\ArrayMethods.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp2.1\ArrayMethods.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp2.1\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp2.1\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp2.1\ArrayMethods.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp2.1\ArrayMethods.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\ArrayMethods\ArrayMethods\obj\Debug\netcoreapp2.1\ArrayMethods.pdb
