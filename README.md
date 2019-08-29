@@ -1,8 +1,8 @@
 # 1321L
 Projects for CS Lab. [Live List](https://ccse.kennesaw.edu/fye/1321_labs_assignments.php)
 ## Labs and Assignments
-### Module 1 (Completed)
-* [Lab 1 - Intro to Programming](https://ccse.kennesaw.edu/fye/docs/1321/labs/m1/M1%20-%20L1%20-%20Intro%20to%20CS.docx) (Turned in)
+### Module 1 (Turned in)
+* [Lab 1 - Intro to Programming](https://ccse.kennesaw.edu/fye/docs/1321/labs/m1/M1%20-%20L1%20-%20Intro%20to%20CS.docx)
 * [Assignment 1](https://ccse.kennesaw.edu/fye/docs/1321/labs/m1/v3/M1%20-%20A1%20-%20Pseudocode%20-%20FA19.pdf)
 ### Module 2
 * [Lab 2](https://ccse.kennesaw.edu/fye/docs/1321/labs/m2/v3/M2%20-%20L2%20-%20TypeSystems%20-%20Version%203.0.docx) (Completed)
