@@ -1,6 +1,0 @@
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Diamond\Diamond\bin\Debug\Diamond.exe.config
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Diamond\Diamond\bin\Debug\Diamond.exe
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Diamond\Diamond\bin\Debug\Diamond.pdb
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Diamond\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Diamond\Diamond\obj\Debug\Diamond.exe
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Diamond\Diamond\obj\Debug\Diamond.pdb

@@ -1,6 +1,0 @@
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Favorites\Favorites\bin\Debug\Favorites.exe.config
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Favorites\Favorites\bin\Debug\Favorites.exe
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Favorites\Favorites\bin\Debug\Favorites.pdb
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Favorites\Favorites\obj\Debug\Favorites.csprojResolveAssemblyReference.cache
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Favorites\Favorites\obj\Debug\Favorites.exe
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Favorites\Favorites\obj\Debug\Favorites.pdb

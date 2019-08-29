@@ -1,5 +1,0 @@
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Rectangle\Rectangle\bin\Debug\Rectangle.exe
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Rectangle\Rectangle\obj\Debug\Rectangle.exe
-C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
