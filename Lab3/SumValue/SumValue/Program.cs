@@ -15,12 +15,19 @@ namespace SumValue
     {
         static void Main(string[] args)
         {
-            int x = 3;
-            int y = 2;
-            int z = 4;
+            // get user input
+            Console.Write("Enter x: ");
+            int x = int.Parse(Console.ReadLine());
+            Console.Write("Enter y: ");
+            int y = int.Parse(Console.ReadLine());
+            Console.Write("Enter z: ");
+            int z = int.Parse(Console.ReadLine());
+            Console.Clear(); // fresh screen
+            // output values
             Console.WriteLine("X = " + x);
             Console.WriteLine("Y = " + y);
             Console.WriteLine("Z = " + z);
+            // calculate and output average
             Console.WriteLine("Average = " + (double)(x + y + z) / 3);
         }
     }

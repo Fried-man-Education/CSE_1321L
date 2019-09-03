@@ -9,3 +9,14 @@ C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SumValue\SumValue\bi
 C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SumValue\SumValue\bin\Debug\netcoreapp2.1\SumValue.pdb
 C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SumValue\SumValue\obj\Debug\netcoreapp2.1\SumValue.dll
 C:\Users\mrchargerlover\Documents\Programming Archive\1321L\SumValue\SumValue\obj\Debug\netcoreapp2.1\SumValue.pdb
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\bin\Debug\netcoreapp2.1\SumValue.deps.json
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\bin\Debug\netcoreapp2.1\SumValue.runtimeconfig.json
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\bin\Debug\netcoreapp2.1\SumValue.runtimeconfig.dev.json
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\bin\Debug\netcoreapp2.1\SumValue.dll
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\bin\Debug\netcoreapp2.1\SumValue.pdb
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\obj\Debug\netcoreapp2.1\SumValue.csprojAssemblyReference.cache
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\obj\Debug\netcoreapp2.1\SumValue.csproj.CoreCompileInputs.cache
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\obj\Debug\netcoreapp2.1\SumValue.AssemblyInfoInputs.cache
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\obj\Debug\netcoreapp2.1\SumValue.AssemblyInfo.cs
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\obj\Debug\netcoreapp2.1\SumValue.dll
+C:\Users\afried10\Desktop\Lab3\SumValue\SumValue\obj\Debug\netcoreapp2.1\SumValue.pdb

@@ -15,8 +15,13 @@ namespace SimpleMath
     {
         static void Main(string[] args)
         {
-            int r = 4;
-            int t = 20;
+            // get user input
+            Console.Write("Enter R: ");
+            float r = float.Parse(Console.ReadLine());
+            Console.Write("Enter T: ");
+            float t = float.Parse(Console.ReadLine());
+            Console.Clear(); // fresh screen
+            // output & calculations
             Console.WriteLine("R = " + r);
             Console.WriteLine("T = " + t);
             Console.WriteLine("R + T = " + (r + t));
