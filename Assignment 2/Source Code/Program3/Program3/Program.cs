@@ -6,7 +6,8 @@ namespace Program3
 	{
 		static void Main(string[] args)
 		{
-			float x1, y1, x2, y2;
+			float x1, y1, x2, y2; // initialize input vars
+            // get input
 			Console.Write("Entered X1: ");
 			x1 = float.Parse(Console.ReadLine());
 			Console.Write("Entered Y1: ");
@@ -15,6 +16,7 @@ namespace Program3
 			x2 = float.Parse(Console.ReadLine());
 			Console.Write("Entered Y2: ");
 			y2 = float.Parse(Console.ReadLine());
+            // calculate using provided formula and output
 			Console.WriteLine("Distance: " + Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2)));
 		}
 	}

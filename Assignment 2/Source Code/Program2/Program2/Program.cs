@@ -11,7 +11,7 @@ namespace Program2
             int n = int.Parse(Console.ReadLine());
             // calculation
             int result = 0;
-            for (int i = 1; i <= 1000; i *= 10) // iterate by times 10 until 4 digits reached
+            for (int i = 1; i <= 1000; i *= 10) // iterate by each digit until 4 digits reached
             {
                 result += (n % (i * 10) - n % i) / i; // add value of first x digits minus x-1 digits
             }

@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mrchargerlover\\.nuget\\packages\\": {},
+    "C:\\Users\\Andrew Friedman\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\Assignment 2\\Program1\\Program1\\Program1.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program1\\Program1\\Program1.csproj",
       "projectName": "Program1",
-      "projectPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\Assignment 2\\Program1\\Program1\\Program1.csproj",
-      "packagesPath": "C:\\Users\\mrchargerlover\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\Assignment 2\\Program1\\Program1\\obj\\",
+      "projectPath": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program1\\Program1\\Program1.csproj",
+      "packagesPath": "C:\\Users\\Andrew Friedman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program1\\Program1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mrchargerlover\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Andrew Friedman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

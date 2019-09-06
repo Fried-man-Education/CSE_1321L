@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Pseudocode\\Program3\\Program3\\Program3.csproj": {}
+    "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program3\\Program3\\Program3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Pseudocode\\Program3\\Program3\\Program3.csproj": {
+    "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program3\\Program3\\Program3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Pseudocode\\Program3\\Program3\\Program3.csproj",
+        "projectUniqueName": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program3\\Program3\\Program3.csproj",
         "projectName": "Program3",
-        "projectPath": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Pseudocode\\Program3\\Program3\\Program3.csproj",
+        "projectPath": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program3\\Program3\\Program3.csproj",
         "packagesPath": "C:\\Users\\Andrew Friedman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Pseudocode\\Program3\\Program3\\obj\\",
+        "outputPath": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program3\\Program3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

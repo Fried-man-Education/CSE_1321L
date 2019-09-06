@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrew Friedman\\source\\repos\\Program4\\Program4\\Program4.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program4\\Program4\\Program4.csproj",
       "projectName": "Program4",
-      "projectPath": "C:\\Users\\Andrew Friedman\\source\\repos\\Program4\\Program4\\Program4.csproj",
+      "projectPath": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program4\\Program4\\Program4.csproj",
       "packagesPath": "C:\\Users\\Andrew Friedman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrew Friedman\\source\\repos\\Program4\\Program4\\obj\\",
+      "outputPath": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Assignment 2\\Source Code\\Program4\\Program4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
