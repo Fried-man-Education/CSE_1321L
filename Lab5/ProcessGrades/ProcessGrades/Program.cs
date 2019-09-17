@@ -22,8 +22,43 @@ namespace ProcessGrades
             int g4 = int.Parse(Console.ReadLine());
             Console.Clear();
             Console.WriteLine("You entered:	" + g1 + ", " + g2 + ", " + g3 + ", " + g4);
-            Console.WriteLine("Highest grade: " + Math.Max(g1, Math.Max(g2, Math.Max(g3, g4))));
-            Console.WriteLine("Lowest grade: " + Math.Min(g1, Math.Min(g2, Math.Min(g3, g4))));
+            Console.Write("Highest grade: ");
+            int temp1 = g1;
+            int temp2 = g3;
+            if (g1 < g2)
+            {
+                temp1 = g2;
+            }
+            if (g3 < g4)
+            {
+                temp2 = g4;
+            }
+            if (temp1 > temp2)
+            {
+                Console.WriteLine(temp1);
+            }else
+            {
+                Console.WriteLine(temp2);
+            }
+            Console.Write("Lowest grade: ");
+            temp1 = g1;
+            temp2 = g3;
+            if (g1 > g2)
+            {
+                temp1 = g2;
+            }
+            if (g3 > g4)
+            {
+                temp2 = g4;
+            }
+            if (temp1 < temp2)
+            {
+                Console.WriteLine(temp1);
+            }
+            else
+            {
+                Console.WriteLine(temp2);
+            }
             Console.WriteLine("Average grade: " + (float)(g1 + g2 + g3 + g4) / 4);
         }
     }

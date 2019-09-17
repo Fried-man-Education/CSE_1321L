@@ -8,3 +8,14 @@ C:\Users\mrchargerlover\Documents\Programming Archive\1321L\CheckPoint\CheckPoin
 C:\Users\mrchargerlover\Documents\Programming Archive\1321L\CheckPoint\CheckPoint\obj\Debug\netcoreapp2.1\CheckPoint.AssemblyInfo.cs
 C:\Users\mrchargerlover\Documents\Programming Archive\1321L\CheckPoint\CheckPoint\obj\Debug\netcoreapp2.1\CheckPoint.dll
 C:\Users\mrchargerlover\Documents\Programming Archive\1321L\CheckPoint\CheckPoint\obj\Debug\netcoreapp2.1\CheckPoint.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\bin\Debug\netcoreapp2.1\CheckPoint.deps.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\bin\Debug\netcoreapp2.1\CheckPoint.runtimeconfig.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\bin\Debug\netcoreapp2.1\CheckPoint.runtimeconfig.dev.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\bin\Debug\netcoreapp2.1\CheckPoint.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\bin\Debug\netcoreapp2.1\CheckPoint.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\obj\Debug\netcoreapp2.1\CheckPoint.csprojAssemblyReference.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\obj\Debug\netcoreapp2.1\CheckPoint.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\obj\Debug\netcoreapp2.1\CheckPoint.AssemblyInfoInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\obj\Debug\netcoreapp2.1\CheckPoint.AssemblyInfo.cs
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\obj\Debug\netcoreapp2.1\CheckPoint.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab5\CheckPoint\CheckPoint\obj\Debug\netcoreapp2.1\CheckPoint.pdb
