@@ -17,24 +17,18 @@ namespace EvenOdd
         {
             // Print even numbers
             Console.Write("Even numbers between 50 and 100: ");
-            for (int i = 50; i <= 100; i++)
-            {
-                if (i % 2 == 0) // check if even
-                {
-                    Console.Write(i);
-                    if (i != 100) // not last number scenario
-                    {
-                        Console.Write(", ");
-                    }
-                }
-            }
-            Console.WriteLine();
+            printValues(0); // 0 is even
             Console.WriteLine(); // spacing
             // Print odd numbers
             Console.Write("Odd numbers between 50 and 100: ");
+            printValues(1); // 1 is odd
+        }
+
+        static void printValues (int type) // prints list of values from type
+        {
             for (int i = 50; i < 100; i++)
             {
-                if (i % 2 == 1) // check if odd
+                if (i % 2 == type) // check if same type
                 {
                     Console.Write(i);
                     if (i != 99) // not last number scenario
@@ -43,6 +37,7 @@ namespace EvenOdd
                     }
                 }
             }
+            Console.WriteLine();
         }
     }
 }

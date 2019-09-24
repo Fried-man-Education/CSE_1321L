@@ -8,3 +8,13 @@ C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\Random
 C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.AssemblyInfo.cs
 C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.dll
 C:\Users\mrchargerlover\Documents\Programming Archive\1321L\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab6\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp2.1\RandomNumbers.deps.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab6\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp2.1\RandomNumbers.runtimeconfig.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab6\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp2.1\RandomNumbers.runtimeconfig.dev.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab6\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp2.1\RandomNumbers.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab6\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp2.1\RandomNumbers.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab6\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab6\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab6\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.AssemblyInfo.cs
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab6\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab6\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp2.1\RandomNumbers.pdb

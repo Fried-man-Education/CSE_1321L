@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\RandomNumbers\\RandomNumbers\\RandomNumbers.csproj": {}
+    "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Lab6\\RandomNumbers\\RandomNumbers\\RandomNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\RandomNumbers\\RandomNumbers\\RandomNumbers.csproj": {
+    "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Lab6\\RandomNumbers\\RandomNumbers\\RandomNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\RandomNumbers\\RandomNumbers\\RandomNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Lab6\\RandomNumbers\\RandomNumbers\\RandomNumbers.csproj",
         "projectName": "RandomNumbers",
-        "projectPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\RandomNumbers\\RandomNumbers\\RandomNumbers.csproj",
-        "packagesPath": "C:\\Users\\mrchargerlover\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrchargerlover\\Documents\\Programming Archive\\1321L\\RandomNumbers\\RandomNumbers\\obj\\",
+        "projectPath": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Lab6\\RandomNumbers\\RandomNumbers\\RandomNumbers.csproj",
+        "packagesPath": "C:\\Users\\Andrew Friedman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andrew Friedman\\Documents\\GitHub\\1321L\\Lab6\\RandomNumbers\\RandomNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mrchargerlover\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andrew Friedman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

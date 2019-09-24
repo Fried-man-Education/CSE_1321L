@@ -16,9 +16,9 @@ namespace RandomNumbers
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 50; i++)
             {
-                Console.WriteLine(rnd.Next(1,50));
+                Console.WriteLine(rnd.Next(1,51));
             }
         }
     }
