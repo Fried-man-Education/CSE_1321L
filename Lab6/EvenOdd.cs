@@ -26,16 +26,18 @@ namespace EvenOdd
 
         static void printValues (int type) // prints list of values from type
         {
-            for (int i = 50; i < 100; i++)
+            int i = 50; // from min
+            while (i <= 100) // less than max
             {
                 if (i % 2 == type) // check if same type
                 {
                     Console.Write(i);
-                    if (i != 99) // not last number scenario
+                    if (i < 99) // not last number scenario
                     {
                         Console.Write(", ");
                     }
                 }
+                i++;
             }
             Console.WriteLine();
         }
