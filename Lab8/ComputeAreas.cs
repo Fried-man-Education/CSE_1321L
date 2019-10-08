@@ -51,6 +51,7 @@ namespace ComputeAreas
         static double circleArea(double radius) // calculates area of circle
         {
             return Math.PI * Math.Pow(radius, 2);
+            //return 3.14f * (radius * radius);
         }
         static double triangleArea(double Base, double height) // calculates area of triangle
         { // lowercase "base" not allowed?
