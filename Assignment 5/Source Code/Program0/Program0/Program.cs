@@ -10,7 +10,7 @@ namespace Program0
             string name = Console.ReadLine();
             do
             {
-                Console.WriteLine(Insult(name));
+                Console.WriteLine(name + Insult());
                 Console.Write("Shall I taunt you another time [yes/no]? ");
                 if (Console.ReadLine() == "no")
                 {
@@ -20,25 +20,21 @@ namespace Program0
             Console.WriteLine("Now go away, you silly English Knnnnniggets!");
         }
 
-        static string Insult(string name)
+        static string Insult()
         {
             var rand = new Random();
             switch(rand.Next(5))
             {
                 case 0:
-                    return name + ", you look like something that I would draw with my left hand.";
+                    return ", you look like something that I would draw with my left hand.";
                 case 1:
-                    return name + ", in spite of what it did to you, don't you love nature?";
+                    return ", in spite of what it did to you, don't you love nature?";
                 case 2:
-                    return name + ", You have the perfect face for radio!";
+                    return ", You have the perfect face for radio!";
                 case 3:
-                    return name + ", you're not as bad as people say. You're a whole lot worse.";
-                case 4:
-                    return name + ", Wow! You look like a before picture!";
-                default:
-                    return "error";
+                    return ", you're not as bad as people say. You're a whole lot worse.";
             }
-            
+            return ", Wow! You look like a before picture!";
         }
     }
 }

@@ -30,7 +30,6 @@ namespace Program2
             {
                 return " ";
             }
-            
         }
     }
 }
