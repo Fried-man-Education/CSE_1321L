@@ -9,3 +9,14 @@ C:\Users\mrchargerlover\source\repos\Stocks\Stocks\bin\Debug\netcoreapp2.1\Stock
 C:\Users\mrchargerlover\source\repos\Stocks\Stocks\bin\Debug\netcoreapp2.1\Stocks.pdb
 C:\Users\mrchargerlover\source\repos\Stocks\Stocks\obj\Debug\netcoreapp2.1\Stocks.dll
 C:\Users\mrchargerlover\source\repos\Stocks\Stocks\obj\Debug\netcoreapp2.1\Stocks.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\bin\Debug\netcoreapp2.1\Stocks.deps.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\bin\Debug\netcoreapp2.1\Stocks.runtimeconfig.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\bin\Debug\netcoreapp2.1\Stocks.runtimeconfig.dev.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\bin\Debug\netcoreapp2.1\Stocks.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\bin\Debug\netcoreapp2.1\Stocks.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\obj\Debug\netcoreapp2.1\Stocks.csprojAssemblyReference.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\obj\Debug\netcoreapp2.1\Stocks.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\obj\Debug\netcoreapp2.1\Stocks.AssemblyInfoInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\obj\Debug\netcoreapp2.1\Stocks.AssemblyInfo.cs
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\obj\Debug\netcoreapp2.1\Stocks.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Stocks\Stocks\obj\Debug\netcoreapp2.1\Stocks.pdb

@@ -22,6 +22,7 @@ namespace Rectangles
             object1.getWidth();
             object1.getArea();
             object1.getPerimeter();
+            Console.WriteLine();
             Console.WriteLine("Second object: ");
             object2.getHeight();
             object2.getWidth();

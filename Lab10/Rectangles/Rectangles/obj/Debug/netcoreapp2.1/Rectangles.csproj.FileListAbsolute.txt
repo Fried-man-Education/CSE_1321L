@@ -8,3 +8,13 @@ C:\Users\mrchargerlover\source\repos\Rectangles\Rectangles\obj\Debug\netcoreapp2
 C:\Users\mrchargerlover\source\repos\Rectangles\Rectangles\obj\Debug\netcoreapp2.1\Rectangles.AssemblyInfo.cs
 C:\Users\mrchargerlover\source\repos\Rectangles\Rectangles\obj\Debug\netcoreapp2.1\Rectangles.dll
 C:\Users\mrchargerlover\source\repos\Rectangles\Rectangles\obj\Debug\netcoreapp2.1\Rectangles.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Rectangles\Rectangles\bin\Debug\netcoreapp2.1\Rectangles.deps.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Rectangles\Rectangles\bin\Debug\netcoreapp2.1\Rectangles.runtimeconfig.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Rectangles\Rectangles\bin\Debug\netcoreapp2.1\Rectangles.runtimeconfig.dev.json
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Rectangles\Rectangles\bin\Debug\netcoreapp2.1\Rectangles.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Rectangles\Rectangles\bin\Debug\netcoreapp2.1\Rectangles.pdb
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Rectangles\Rectangles\obj\Debug\netcoreapp2.1\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Rectangles\Rectangles\obj\Debug\netcoreapp2.1\Rectangles.AssemblyInfoInputs.cache
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Rectangles\Rectangles\obj\Debug\netcoreapp2.1\Rectangles.AssemblyInfo.cs
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Rectangles\Rectangles\obj\Debug\netcoreapp2.1\Rectangles.dll
+C:\Users\Andrew Friedman\Documents\GitHub\1321L\Lab10\Rectangles\Rectangles\obj\Debug\netcoreapp2.1\Rectangles.pdb
