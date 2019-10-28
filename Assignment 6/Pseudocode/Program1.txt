@@ -1,0 +1,37 @@
+MAIN
+BEGIN
+    CREATE player ← NEW Pac()
+    WHILE (TRUE)
+        PRINTLINE "Current location – X: " + player.x + " Y: " + player.y
+        PRINTLINE "(U)p, (D)own, (L)eft, (R)ight or (Q)uit:"
+        SWITCH READ
+        BEGIN
+            CASE "U": player.moveUp()
+                BREAK
+            CASE "D": player.moveDown()
+                BREAK
+            CASE "L": player.moveLeft()
+                BREAK
+            CASE "R": player.moveRight()
+                BREAK
+            CASE "Q": System.Exit(1)
+                BREAK
+            DEFAULT: PRINTLINE "invalid input..."
+                BREAK
+        END SWITCH 
+    ENDWHILE
+END MAIN
+
+CLASS Pac
+BEGIN
+    x ← 5
+    y ← 5
+
+    METHOD moveUp() =>  y ← (y + 1) % 10
+
+    METHOD moveDown() => y ← (y - 1) + (1 / (y + 1) * 10)
+
+    METHOD moveLeft() => x ← (x - 1) + (1 / (x + 1) * 10)
+
+    METHOD moveRight() => x ← (x + 1) % 10
+END CLASS
