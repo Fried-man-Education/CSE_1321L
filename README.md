@@ -24,10 +24,10 @@ Projects for CS Lab. [Live List](https://ccse.kennesaw.edu/fye/1321_labs_assignm
 * [Lab 10](https://ccse.kennesaw.edu/fye/docs/1321/labs/m6/v3/M6%20-%20L10%20-%20Classes%20-%20Version%204.0.docx)
 * [Lab 11](https://ccse.kennesaw.edu/fye/docs/1321/labs/m6/v3/M6%20-%20L11%20-%20Classes%20-%20Version%203.0.docx)
 * [Assignment 6](https://ccse.kennesaw.edu/fye/docs/1321/labs/m6/v3/M6%20-%20A6%20-%20Classes%20v3.pdf)
-### Module 7
+### Module 7 (Completed)
 * [Lab 12](https://ccse.kennesaw.edu/fye/docs/1321/labs/m7/M7%20-%20L12%20-%20Arrays.doc) (Turned in)
-* [Lab 13](https://ccse.kennesaw.edu/fye/docs/1321/labs/m7/M7%20-%20L13%20-%20Arrays.doc) (Completed)
-* [Assignment 7](https://ccse.kennesaw.edu/fye/docs/1321/labs/m7/v3/M7%20-%20A7%20-%20Arrays_v4.pdf) (Completed Source)
+* [Lab 13](https://ccse.kennesaw.edu/fye/docs/1321/labs/m7/M7%20-%20L13%20-%20Arrays.doc)
+* [Assignment 7](https://ccse.kennesaw.edu/fye/docs/1321/labs/m7/v3/M7%20-%20A7%20-%20Arrays_v4.pdf)
 ### Module 8
 * [Lab 14](https://ccse.kennesaw.edu/fye/docs/1321/labs/m8/M8%20-%20L14%20-%20Search-Sort.doc)  (Completed)
 * Assignment 8
