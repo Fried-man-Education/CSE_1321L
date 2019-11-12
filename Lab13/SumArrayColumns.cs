@@ -9,7 +9,7 @@
 
 using System;
 
-namespace LocateLargestElement
+namespace SumArrayColumns
 {
     class Program
     {
@@ -21,7 +21,7 @@ namespace LocateLargestElement
             {
                 for (int b = 0; b < arr.GetLength(1); b++) // column
                 {
-                    Console.WriteLine("Enter value for array #" + a + " value #" + b);
+                    Console.WriteLine("Enter value for row #" + a + " column #" + b);
                     arr[a, b] = int.Parse(Console.ReadLine());
                 }
             }
@@ -38,25 +38,24 @@ namespace LocateLargestElement
                 Console.WriteLine(); // next line
             }
             Console.WriteLine(); /// spacing
-            int[] cord = locateLargest(arr); // calculate and store coordinates
-            Console.WriteLine("First largest value is located at row " + cord[0] + " and column " + cord[1]);
+            int[] columnSum = sumColumn(arr); // get sum of columns in array
+            for (int i = 0; i < columnSum.Length; i++) // column
+            {
+                Console.WriteLine("Sum of column " + i + " is " + columnSum[i]);
+            }
         }
 
-        static int[] locateLargest (int[,] arr) // find first max value in 2d array
+        static int[] sumColumn(int[,] arr) // return sum of columns for input array
         {
-            int[] cord = new int[2]; // coordinate storage
+            int[] columnSum = new int[arr.GetLength(1)]; // storage
             for (int a = 0; a < arr.GetLength(0); a++) // row
             {
                 for (int b = 0; b < arr.GetLength(1); b++) // column
                 {
-                    if (arr[a, b] > arr[cord[0], cord[1]]) // if new max
-                    {
-                        cord[0] = a; // x-coordinate
-                        cord[1] = b; // y-coordinate
-                    }
+                    columnSum[b] += arr[a, b];
                 }
             }
-            return cord;
+            return columnSum;
         }
     }
 }
