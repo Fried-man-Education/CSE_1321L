@@ -27,8 +27,7 @@ namespace SimpleSort
             // output data
             Console.Write("Arrays Values: ");
             printArray(arr);
-            Console.WriteLine(); // end of values
-            Console.WriteLine(); // spacing
+            Console.WriteLine(); // end of values && spacing
             // bubble sort output
             copyArray(arr, temp);
             Console.Write("Bubble Sorted values: ");
