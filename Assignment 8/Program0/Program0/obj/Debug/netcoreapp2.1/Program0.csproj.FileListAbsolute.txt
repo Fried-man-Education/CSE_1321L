@@ -1,0 +1,11 @@
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\bin\Debug\netcoreapp2.1\Program0.deps.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\bin\Debug\netcoreapp2.1\Program0.runtimeconfig.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\bin\Debug\netcoreapp2.1\Program0.runtimeconfig.dev.json
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\bin\Debug\netcoreapp2.1\Program0.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\bin\Debug\netcoreapp2.1\Program0.pdb
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\obj\Debug\netcoreapp2.1\Program0.csprojAssemblyReference.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\obj\Debug\netcoreapp2.1\Program0.csproj.CoreCompileInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\obj\Debug\netcoreapp2.1\Program0.AssemblyInfoInputs.cache
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\obj\Debug\netcoreapp2.1\Program0.AssemblyInfo.cs
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\obj\Debug\netcoreapp2.1\Program0.dll
+C:\Users\mrchargerlover\Documents\Programming Archive\1321L\Assignment 8\Program0\Program0\obj\Debug\netcoreapp2.1\Program0.pdb
