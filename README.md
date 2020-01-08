@@ -4,7 +4,7 @@ This repo is all the code written for 1321L's problem sets. I figured it would b
 This course provides an introduction to computing with a focus on programming. Instruction centers on an overview of programming, problem-solving, and algorithm development. Particular topics include object-oriented design/programming, primitive data types, arithmetic and logical operators, selection andrepetition structures, interactive user input, exception handling, using and designing basic classes, single-dimensional data structures with searching and sorting, and arrays. Programming assignments focus on techniques of good programming style including proper documentation. The student is taught to efficiently design, code, and debug problem solutions and the relationship between correct code and security.
 ## Labs and Assignments
 ### Module 1
-* Lab 1 - [Intro to Programming](/Module%201/Lab%201/M1%20-%20L1%20-%20Intro%20to%20CS.docs) 
+* Lab 1 - [Intro to Programming](/Module%201/Lab%201/M1%20-%20L1%20-%20Intro%20to%20CS.docx) 
   - 100/100
 * Assignment 1 - [PDF](/Module%201/Assignment%201/M1%20-%20A1%20-%20Pseudocode%20-%20FA19.pdf)
   - Pseudocode: 100/100
